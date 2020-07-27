@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\bin\Debug\netcoreapp2.1\ConsoleSingleResp.deps.json
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\bin\Debug\netcoreapp2.1\ConsoleSingleResp.runtimeconfig.json
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\bin\Debug\netcoreapp2.1\ConsoleSingleResp.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\bin\Debug\netcoreapp2.1\ConsoleSingleResp.dll
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\bin\Debug\netcoreapp2.1\ConsoleSingleResp.pdb
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\obj\Debug\netcoreapp2.1\ConsoleSingleResp.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\obj\Debug\netcoreapp2.1\ConsoleSingleResp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\obj\Debug\netcoreapp2.1\ConsoleSingleResp.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\obj\Debug\netcoreapp2.1\ConsoleSingleResp.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\obj\Debug\netcoreapp2.1\ConsoleSingleResp.dll
+C:\Users\Owner\source\repos\ConsoleSingleResp\ConsoleSingleResp\obj\Debug\netcoreapp2.1\ConsoleSingleResp.pdb
